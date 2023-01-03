@@ -1,0 +1,10 @@
+[
+    {
+        "apiname":"TestApi1",
+        "apiurl":"192.168.0.1/Apitest1"
+    },
+    {
+        "apiname":"TestApi2",
+        "apiurl":"192.168.0.1/Apitest2"
+    }
+]
